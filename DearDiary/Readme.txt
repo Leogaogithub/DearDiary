@@ -1,4 +1,4 @@
-there are two vedioes about how to Eclipse to get source from github. 
+there are two vedioes about how to use Eclipse to get source from github. 
 they are helpful for beginners like me.
 I hope they are helpful to you.
 
