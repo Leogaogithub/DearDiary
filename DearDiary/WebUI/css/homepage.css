@@ -516,3 +516,16 @@ em{
 	color:#cc0000;
 	margin-bottom:17px;
 }
+
+.wrapper-dropdown {
+	background: #5CADAD;
+   width: 268px;
+   padding: 5px;
+   font-size: 20px;
+   line-height: 1;
+   border: 0;
+   border-radius: 10;
+   height: 55px;
+   -webkit-appearance: none;
+}
+
