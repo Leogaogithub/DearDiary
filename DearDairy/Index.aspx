@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Index.aspx.cs" Inherits="Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Index.aspx.cs" Inherits="Index"  %>
+
 
 <!DOCTYPE html>
 
@@ -93,7 +94,7 @@
           </div>
           
           <asp:Button ID="btnRegister" Text="Get Started" runat="server" OnClick="btnRegisterClick"/>
-          
+          <asp:Label ID="lblRegisterError" runat="server" ForeColor="Red" Visible="false"></asp:Label>
           
 
         </div>

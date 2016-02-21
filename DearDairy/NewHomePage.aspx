@@ -26,7 +26,7 @@
     <div id="nav">
       <ul class="menu">
         <li class="current_page_item"><a href="homepage.html">Home</a></li>
-        <li><a href="Birthdays.html">Birthdays</a></li>
+        <!--<li><a href="Birthdays.html">Birthdays</a></li>-->
         <li><a href="Events.html">Events</a>
          <!-- <ul class="sub-menu">
             <li><a href="project.html">Latest Project</a></li>
@@ -37,7 +37,8 @@
           </ul>-->
         </li>
         <li><a href="Pictures.html">Pictures</a></li>
-        <li><a href="Profile.html">Profile</a></li>
+        <li><a href="Profile.html">Notes</a></li>
+          <li><a href="Index.aspx">Sign Out</a></li>
       </ul>
     </div>
     <!--end nav-->
@@ -47,15 +48,16 @@
   </div>
   <div id="featured-section">
     
-    <div id="circles">  
-    <a href="AddBirthday.html">
-      <div class="red-circle circle first" >        
+    <div id="circles" >  
+    <!--<a href="AddBirthday.html">
+      <div class="red-circle circle first"  >        
         <h3><em>ADD BIRTHDAY</em></h3>
         <p>[ADD OVERVIEW]</p>            
       </div>
-      </a>
+      </a>-->
+        
       <!--end red-circle-->
-      <a href="CreateEvent.html">
+      <a href="CreateEvent.aspx">
       <div class="pink-circle circle">
         <h3><em>CREAT EVENT</em></h3>
         <p></p>
@@ -69,7 +71,7 @@
       </div>
       </a>
       <!--end red-circle-->
-      <a href="#">
+      <a href="AddNotes.aspx">
       <div class="yellow-circle circle">
         <h3><em>ADD NOTES</em></h3>
         <p></p>

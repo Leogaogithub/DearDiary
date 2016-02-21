@@ -469,7 +469,7 @@ em{
 	float:left;
 	width:450px;
 }
-#contact-form input{
+#contactform input{
 	background:url(../images/textinput-bg.png) repeat-x;
 	border:1px #ddd solid;
 	padding:15px;
@@ -479,7 +479,7 @@ em{
 	color:#555;
 	font-family:arial, sans-serif;
 }
-#contact-form textarea{
+#contactform textarea{
 	background:url(../images/textarea-bg.png) repeat-x;
 	border:1px #ddd solid;
 	padding:15px;
@@ -491,7 +491,7 @@ em{
 	height:150px;
 	font-family:arial, sans-serif;
 }
-#contact-form .submit{
+#contactform .submit{
 	display:block;
 	background:url(../images/blue-button-bg.png) no-repeat;
 	width:141px;
@@ -505,7 +505,7 @@ em{
 	font-size:14px;
 	margin:0;
 }
-#contact-form .submit:hover{
+#contactform .submit:hover{
 	background:url(../images/red-button-bg.png) no-repeat;
 	color:#fff;
 }
